@@ -1,0 +1,8 @@
+{
+  "milestone": "v2.0.0",
+  "generatedAt": "2026-08-09T12:26:16.864Z",
+  "failedSteps": 0,
+  "node": "v24.16.0",
+  "install": "npm ci (Windows-hardened cleanup)",
+  "story": "Accumulated-history layer with integrity closure: lineage/evidence tombstones, provenance honesty, dossiers, history explorer/search, backup health, schema 5"
+}

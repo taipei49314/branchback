@@ -1,0 +1,8 @@
+{
+  "milestone": "v1.0.0",
+  "generatedAt": "2026-08-09T10:04:43.820Z",
+  "failedSteps": 0,
+  "node": "v24.16.0",
+  "install": "npm ci",
+  "story": "Complete historical proposition registry + authentic evaluations + latest-wins review history + public v1 release"
+}

@@ -1,0 +1,9 @@
+{
+  "milestone": "M0.3",
+  "generatedAt": "2026-08-08T17:09:43.672Z",
+  "failedSteps": 1,
+  "claims": [
+    "Ordinary application code cannot bypass the declared persistence authority.",
+    "Every accepted post-commit historical state transition either preserves the prior state truthfully or is rejected."
+  ]
+}

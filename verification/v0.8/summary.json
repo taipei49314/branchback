@@ -1,0 +1,7 @@
+{
+  "milestone": "v0.8.0-rc",
+  "generatedAt": "2026-08-09T09:32:49.101Z",
+  "failedSteps": 0,
+  "node": "v24.16.0",
+  "story": "Fingerprint-bound historical propositions + atomic merge import + CalendarDay contract + RC polish"
+}

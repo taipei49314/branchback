@@ -1,0 +1,13 @@
+{
+  "milestone": "M0.2",
+  "generatedAt": "2026-08-08T17:12:10.432Z",
+  "steps": [
+    "01-clean-install",
+    "02-lint",
+    "03-unit-integrity",
+    "04-build",
+    "05-playwright"
+  ],
+  "failedSteps": 1,
+  "claim": "Once BranchBack has accepted something as historical record, no ordinary later write may silently alter or erase that history."
+}
