@@ -1,12 +1,13 @@
 # BranchBack
 
-Local-first **decision replay laboratory** — **v2.0.0**.
+A notebook for decisions. It remembers what you thought *before* the result
+came in. **v2.0.0**.
 
-Preserve what you believed *before* you knew the outcome — including every
-historically recorded version of a prediction or assumption BranchBack claims
-to remember — and stay useful after hundreds of decisions.
+Open it months later and you can still see the belief you actually held, not
+the story you tell yourself now.
 
-No accounts. No cloud. No AI recommendations. Data stays in this browser (IndexedDB).
+No accounts. No cloud. No AI recommendations. Data stays in this browser
+(IndexedDB).
 
 ## Requirements
 
